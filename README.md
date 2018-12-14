@@ -157,3 +157,10 @@ below steps to narrow the problem.
 
 ### Resumed VMs have incorrect IP address
 When you resume a base VM you did not create (for example, the Ubuntu Precise image found here [Sample Base VM](https://storage.cmusatyalab.org/cloudlet-vm/precise-hotplug-new.zip) ) the network configuration may have been entirely different when the image was created. This can cause difficulty connecting to the VM. Soft rebooting the instance from the 'Project->Instances' panel should result in the proper IP addressed being assigned from the pool that was created when the `nova create-network` command was issued.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
